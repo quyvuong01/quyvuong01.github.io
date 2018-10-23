@@ -1,0 +1,96 @@
+header{
+    background: black;
+    color: aliceblue;
+}
+
+.home{
+    background: #171717;
+    width: 980px;
+}
+.trang2{
+    text-align: center;
+    background: #f4f8fb;
+    padding: 2rem;
+
+    
+}
+.trang2 .h1{
+    text-align: center;
+    color: chocolate;
+    font-size: 2rem;
+}
+.trang2 .h2{
+font-size: 1.5rem;
+}
+.trang2 .tg2 img{
+    margin: 2px;
+    
+}
+.trang3 {
+    background: url('../img/trang2_backr.png') no-repeat center center;
+    padding: 2rem;
+    text-align: center;
+}
+.trang3 h1  {
+text-align: center;
+color: #f4f8fb;
+
+}
+.trang3 .container {
+    
+    padding: 2rem;
+}
+.trang3 .anh1
+{
+    margin : 1rem;
+}
+.trang3 .card-body{
+    color: aliceblue;
+}
+.trang3 img{
+       
+        border: 3px solid #f5eaea;
+        border-radius: 10px;
+}
+.trang4 {
+    padding: 2rem;
+    text-align: center;
+    margin: 2px;
+}
+.trang4 .container{
+    padding: 2rem;
+}
+.trang5 {
+    background: url('../img/back-trang5.png') no-repeat center center;
+    padding: 2rem;
+    text-align: center;
+
+}
+.trang5 .container {
+
+    padding: 2rem;
+}
+.trang5 h3 {
+    color: aliceblue;
+}
+.trang5 .card-body{
+    color: aliceblue;
+}
+
+
+.btn-primary{
+    text-align: center;
+}
+
+.trang6{
+    padding: 2rem;
+    text-align: center;
+
+} 
+.trang5 .container {
+
+    padding: 2rem;
+}
+img{
+    border: 3px solid #f5eaea;
+}
